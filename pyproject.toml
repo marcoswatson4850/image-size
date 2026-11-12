@@ -1,6 +1,6 @@
 [project]
 name = "image-size"
-version = "0.1.6"
+version = "0.1.7"
 description = "Read image dimensions from the header without decoding."
 requires-python = ">=3.10"
 dependencies = []
